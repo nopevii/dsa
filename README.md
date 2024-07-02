@@ -1,6 +1,6 @@
 ### What is a data structure
 
-Data structure is a named locatation that can be used to store and organize data
+Data structure is a named location that can be used to store and organize data
 
 ### What is an algorithm
 
